@@ -1,0 +1,6 @@
+{
+  "name": "Whiteboard",
+  "description": "A minimalist, fast, and feature-rich digital whiteboard supporting infinite tabs, multiple drawing tools, custom shapes, text, selection editing, undo/redo, local auto-saving, and file import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
