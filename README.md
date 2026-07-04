@@ -1,4 +1,4 @@
-# [Whiteboard](https://whiteboard-chi-eight.vercel.app/)
+# [Canvas](https://canvas-opal-sigma.vercel.app/)
 Hello there Hari here,
 I made an online Whiteboard. It is a tool for drawing and writing. You can use it to teach take notes and think of ideas.
 
